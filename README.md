@@ -1,6 +1,7 @@
 
 <div align="center">
-    <strong>Analysis of Farts from mice using computer vision and machine learning</strong>
+    <strong>Analysis of Farts from mice using computer vision and machine learning
+             $FLAB on pumpfun CA: BtzvHMMmKCXHz28J1TLRxv5E9DWg64wtjict9Vnxpump </strong>
 </div>
 
 <div align="center">
