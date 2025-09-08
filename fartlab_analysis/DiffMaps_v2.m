@@ -1,5 +1,5 @@
 % clear all
-% working_folder = 'Z:\test' ;
+% working_folder = 'Z:\test\flab' ;
 % prefix = 'AJ_AJ';
 % cd(working_folder)
 % raiz = pwd;
